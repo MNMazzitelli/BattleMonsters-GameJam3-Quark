@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Views">
+      <UniqueIdentifier>{b384d43a-cd86-4ba4-8a33-a6f654b43a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Views">
+      <UniqueIdentifier>{cb2f4907-814d-4c3f-80f0-421281abed1e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Creature.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="View1.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="IView.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewCriature.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Arena.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="movementResult.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteDracore.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawBase.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Menus.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteMythosaur.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteEreblin.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteAgrios.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteCannonBall.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteMorsax.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ECriatures.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="DamagesViews.h">
+      <Filter>Archivos de encabezado\Views</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Creature.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsEnum.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
+    <ClCompile Include="View1.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewCriature.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="Arena.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteDracore.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawBase.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Menus.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteMythosaur.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteEreblin.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteAgrios.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteCannonBall.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteMorsax.cpp">
+      <Filter>Archivos de origen\Views</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

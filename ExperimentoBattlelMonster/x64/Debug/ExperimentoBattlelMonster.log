@@ -1,0 +1,40 @@
+﻿  Arena.cpp
+  Attack.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Attack.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Creature.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Creature.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Creature.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Menus.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Menus.cpp(729,6): warning C4551: function call missing argument list
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Menus.cpp(1083,15): warning C4101: 'snd': unreferenced local variable
+  SoundManager.cpp
+  SpriteAgrios.cpp
+  SpriteCannonBall.cpp
+  SpriteDracore.cpp
+  DrawBase.cpp
+  GameManager.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\GameManager.cpp(170,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Movement.cpp
+  main.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\main.cpp(10,2): warning C4551: function call missing argument list
+  Screen.cpp
+  Skill.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\Skill.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpriteEreblin.cpp
+  SpriteMorsax.cpp
+  SpriteMythosaur.cpp
+  StatsEnum.h
+  View.cpp
+  View1.cpp
+  Generating Code...
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\GameManager.cpp(99): warning C4715: 'GameManager::selector': not all control paths return a value
+  Compiling...
+  ViewCriature.cpp
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(108,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(161,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(171,2): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(172,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(177,2): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\ExperimentoBattlelMonster\ViewCriature.cpp(178,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ExperimentoBattlelMonster.vcxproj -> C:\Users\matia\Desktop\GameDevelopment\BattleMonsters\x64\Debug\BattleMonsters.exe
